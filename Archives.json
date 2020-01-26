@@ -69,14 +69,6 @@
   "files": ["v"],
   "search": ["v", "vg"]
 }, {
-  "uid": 26,
-  "name": "arch-img.b4k.co",
-  "domain": "arch-img.b4k.co",
-  "http": true,
-  "https": true,
-  "software": "foolfuuka",
-  "files": ["v"],
-}, {
   "uid": 28,
   "name": "bstats",
   "domain": "archive.b-stats.org",
